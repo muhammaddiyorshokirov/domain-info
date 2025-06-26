@@ -58,4 +58,5 @@ This will return DNS and technical info about **google.com**
 
 🚀 Perfect for developers, domain monitoring tools, or security dashboards.
 
-Shared by [t.me/codegateuz](https://t.me/codegateuz) 📢
+
+[![Join Telegram](https://img.shields.io/badge/Telegram-Join_Channel-blue?logo=telegram)](https://t.me/codegateuz)
